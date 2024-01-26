@@ -1,3 +1,5 @@
+# Ahorcado-con-Interfaz-Grafica
+
 Este proyecto tenía el objetivo de conocer e incorporar herramientas, librerías, de lenguaje Python. Se utilizó el paradigma de programación orientado a objetos, junto con la librería Tkinter y la base de datos integrada a Python, SQLlite.
 
 # Pantalla Principal
